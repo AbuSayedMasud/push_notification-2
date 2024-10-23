@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "419638950239",
+    "project_id": "push-notification-89960",
+    "storage_bucket": "push-notification-89960.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419638950239:android:9a068d4a8c37fa41d45eea",
+        "android_client_info": {
+          "package_name": "com.fintechhub.fcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6aAg7dGYY9VSxcnNHfyy7pu6N2T_D62Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
